@@ -36,7 +36,8 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 Placeholders are shown while article images load.
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+
 Make the spinner not reset to "Newest" value by default every time you tap/click to view the filter activity.
 "Save changes" to each filter so that if other filters are applied after browsing articles, they will display the values they were set to last time filters were applied.
 
@@ -45,7 +46,7 @@ Make the spinner not reset to "Newest" value by default every time you tap/click
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/NDGusCQ.gif' title='NYTimes Search App' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
